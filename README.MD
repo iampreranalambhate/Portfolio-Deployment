@@ -72,7 +72,7 @@ CloudFront provides **global CDN caching and faster content delivery**.
 3.  Add domain names:
 
 techprerana.cloud\
-\*.techprerana.cloud
+www.techprerana.cloud
 
 4.  Choose **DNS Validation**
 5.  Add the **CNAME validation record** in Hostinger DNS
